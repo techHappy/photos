@@ -34,3 +34,9 @@ good
 >引用
 >quote
 >block
+
+```
+print("hello world")
+```
+
+``this is code``
