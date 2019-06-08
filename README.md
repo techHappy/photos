@@ -29,3 +29,5 @@ good
 ----
 
 
+插入图片
+![test](https://github.com/techHappy/photos/raw/master/test.jpg)
