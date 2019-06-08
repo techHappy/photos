@@ -30,4 +30,4 @@ good
 
 
 插入图片
-![test](https://github.com/techHappy/photos/raw/master/soslogo.jpg)
+![test](https://github.com/techHappy/photos/blob/master/zozlogo.jpg)
