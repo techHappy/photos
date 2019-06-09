@@ -1,7 +1,7 @@
 # photos
 just many photos
 
-###title
+### title
 
 *斜体*
 
@@ -29,7 +29,7 @@ good
 ----
 
 插入图片
-![test](https://github.com/techHappy/photos/blob/master/zozlogo.jpg)
+![test](https://github.com/techHappy/photos/blob/master/test.jpg)
 
 >引用
 >quote
